@@ -1,0 +1,21 @@
+# First make sure to update pip (or pip3 if using Python3 on MacOS):
+#     $ sudo pip install --upgrade pip
+#
+# Then you probably want to work in a virtualenv (optional):
+#     $ sudo pip install --upgrade virtualenv
+# Then:
+#     $ cd $my_work_dir
+#     $ virtualenv my_env
+#     $ . my_env/bin/activate
+#
+# Then install these requirements:
+#     $ pip install --upgrade -r requirements.txt
+#
+
+
+matplotlib==3.1.1
+numpy==1.16.5
+pandas==0.25.1
+scipy==1.3.1
+scikit-learn==0.20.3
+tensorflow==1.14.0

@@ -1,0 +1,11 @@
+Download the data files for wildfire, climate, and stock histories into the this directory.  
+    You can find the US wildfire data at (https://www.kaggle.com/rtatman/188-million-us-wildfires).
+    ou can find the historical climate data at (https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data#GlobalLandTemperaturesByCity.csv).
+        The only file needed is `GlobalLandTemperaturesByCity.csv`.
+    You can find the historical stock data at (https://www.kaggle.com/ehallmar/daily-historical-stock-prices-1970-2018).
+        The only file needed is `historical_stock_prices.csv`.
+
+Extract the files you downloaded.
+    Place `FPA_FOD_20170508.sqlite` directly into this directory.
+    Place `GlobalLandTemperaturesByCity.csv` directly into this directory.
+    Place `historical_stock_prices.csv` directly into this directory.
