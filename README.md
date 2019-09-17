@@ -1,4 +1,4 @@
-Wildfire Cause Detector
+# Wildfire Cause Detector
 -----------------------
 
 The US experiences an average of over 70,000 wildfires each year, burning an estimated 7.0million acres.# This widespread destruction, which has been consistently growing in magnitude each year, is a mounting public safety concern where 4.5million US homes have been identified to be at high or extreme risk from wildfires.# Aside from the enormous environmental and disaster relief issues this presents, it also incurs significant economical repercussions where $5.1billion in losses have accrued over the last 10 years due to wildfires.#
